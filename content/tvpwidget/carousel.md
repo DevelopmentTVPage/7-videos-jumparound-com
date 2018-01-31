@@ -7,6 +7,9 @@
     "css": {
         ".video-item": {
             "video_item_display_amount": "4"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_hover_background_color": "rgba(255, 0, 0, 1)"
         }
     },
     "layout": "bootstrap",
