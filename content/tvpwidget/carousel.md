@@ -1,12 +1,16 @@
 {
-    "type": "carousel",
-    "title": "Carousel",
     "name": "carousel",
+    "template": "carousel",
+    "title": "Carousel",
+    "projectId": "7",
     "channelId": "66133904",
-    "layout": "bootstrap",
     "css": {
         ".video-item": {
-            "video_item_display_amount": "4"
+            "video_item_display_amount": "3"
         }
-    }
+    },
+    "layout": "bootstrap",
+    "channelTitle": "Coffee House Vibes",
+    "channelType": "Standard",
+    "type": "carousel"
 }
