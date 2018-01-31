@@ -6,7 +6,7 @@
     "channelId": "66133904",
     "css": {
         ".video-item": {
-            "video_item_display_amount": "3"
+            "video_item_display_amount": "4"
         }
     },
     "layout": "bootstrap",
