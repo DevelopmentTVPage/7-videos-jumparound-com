@@ -20,8 +20,6 @@
     "id": "83106081",
     "loginId": "1758799",
     "entityType": "1",
-    "sortOrder": "0",
-    "entityIdParent": "66133904",
     "titleTextEncoded": "Wave",
     "category": null,
     "duration": 423,
@@ -38,14 +36,7 @@
         "prettyDuration": "00:07:03"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-11-17"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
     "tvp_profiles": [
         "25"
     ],

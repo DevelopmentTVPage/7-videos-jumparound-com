@@ -20,8 +20,6 @@
     "id": "83106071",
     "loginId": "1758799",
     "entityType": "1",
-    "sortOrder": "14",
-    "entityIdParent": "66133904",
     "titleTextEncoded": "Over-The-Rainbow",
     "category": null,
     "duration": 168,
@@ -38,13 +36,7 @@
         "prettyDuration": "00:02:48"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "engagement_score": {
-                "lastUpdatedDate": "2017-11-17"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
     "tvp_profiles": [
         "6"
     ],

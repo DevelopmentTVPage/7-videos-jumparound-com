@@ -20,8 +20,6 @@
     "id": "83106072",
     "loginId": "1758799",
     "entityType": "1",
-    "sortOrder": "13",
-    "entityIdParent": "66133904",
     "titleTextEncoded": "Easy-Listening-Relaxation-Music",
     "category": null,
     "duration": 216,
@@ -38,13 +36,7 @@
         "prettyDuration": "00:03:36"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "engagement_score": {
-                "lastUpdatedDate": "2017-11-17"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
     "tvp_profiles": [
         "11",
         "25"
